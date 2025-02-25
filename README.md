@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-"""" It is the systematic application of engineering principles methods and tools for the development and maintence of deployment annd maintenance of software products. """
+""" It is the systematic application of engineering principles methods and tools for the development and maintence of deployment annd maintenance of software products"""
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -62,10 +62,11 @@ These challenges can be solved by good communication within the team,planning an
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 """
-
-
+unit testing - testing individual components which helps in the debugging since the error are isolated.
+integration testing - testing interactions between component which prevents mismatches between modules.
+system testing - testing the entire software system which ensures the entire system functions correctly before release
+acceptance testing - testing against user requirements which ensure the goals of the client are met
 """
-
 
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -76,3 +77,8 @@ It is creating questions and/or statements to get the best possible outcomes fro
 """
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+"""
+Tell me about a dog
+
+Give me brief overview of dog breeds and their characteristics.
+"""
